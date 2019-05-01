@@ -1,0 +1,27 @@
+{
+  "name": "heygooglewol",
+  "version": "1.0.0",
+  "description": "A simple Wake-on-LAN Web API for Google Assistant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nevexo/HeyGoogleWOL.git"
+  },
+  "keywords": [
+    "WOL",
+    "Google",
+    "Assistant",
+    "Hey",
+    "Google",
+    "Wake-on-LAN"
+  ],
+  "author": "Nevexo <cameron@nevexo.space>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nevexo/HeyGoogleWOL/issues"
+  },
+  "homepage": "https://github.com/Nevexo/HeyGoogleWOL#readme"
+}
