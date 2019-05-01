@@ -40,7 +40,9 @@ Next set your devices, simply set the name in place of `desktop` and set the MAC
 the NIC in your computer. 
 
 > NOTE: Your must enable Wake-on-LAN in both your BIOS/UEFI and operating system.
+
 > NOTE: This only works on wired connections. 
+
 > NOTE: Google Assistant will return capital letters for 'PC', so account for that in your config.
 
 If you're unsure why something isn't working, set logging mode to 'debug' and check the config.
