@@ -1,0 +1,23 @@
+{
+    "logging_level": "info",
+    "network": {
+        "broadcast_ip": "192.168.255.255",
+        "wol_port": 9
+    },
+    "server": {
+        "bind_address": "0.0.0.0",
+        "bind_port": "8080"
+    },
+    "devices": {
+        "desktop": {
+            "mac_address": "XX:XX:XX:XX:XX:XX"
+        },
+        "laptop": {
+            "mac_address": "XX:XX:XX:XX:XX:XX"
+        }
+    },
+    "advanced": {
+        "api_prefix": "/wol",
+        "return_state": false
+    }
+}
